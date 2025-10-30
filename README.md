@@ -1,11 +1,11 @@
-Oii pessoal, eu sou Henrique Gonçalves
+Oi pessoal, eu sou Henrique Gonçalves
 
 Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador do meu pai para jogar e aprender coisas novas, o que me fez despertar um interesse em descobrir como os programas funcionam e como eles são feitos. Isso me ajudou a escolher meu curso como estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), e atualmente estou em busca da minha primeira oportunidade de estágio na área de TI.
 
 <div>
-<a href="https://github.com/ViniBulhoes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBulhoes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniBulhoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/hgoncalves95">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Ferramentas e Tecnologias:
