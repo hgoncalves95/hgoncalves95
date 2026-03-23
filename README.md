@@ -1,20 +1,49 @@
-Oi pessoal, eu sou Henrique Gonçalves
+# 👋 Olá, eu sou Henrique Gonçalves
 
-Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador do meu pai para jogar e aprender coisas novas, o que me fez despertar um interesse em descobrir como os programas funcionam e como eles são feitos. Isso me ajudou a escolher meu curso como estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), e atualmente estou em busca da minha primeira oportunidade de estágio na área de TI.
+💻 **Desenvolvedor de Software em formação**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**.
+
+Desde pequeno sempre tive curiosidade por tecnologia. Costumava utilizar o computador do meu pai para jogar e explorar novas coisas, o que despertou meu interesse em entender **como os programas funcionam e como são desenvolvidos**.
+
+Hoje estou focado em desenvolver minhas habilidades em programação e tecnologia. Atualmente estou em busca da **minha primeira oportunidade de estágio na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir como desenvolvedor.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div>
 <a href="https://github.com/hgoncalves95">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
-## Ferramentas e Tecnologias:
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+## 🚀 Ferramentas e Tecnologias
 
-## Entre em Contato:
-<div>
-<a href="https://www.instagram.com/bulhoes_vini/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/henrique-gon%C3%A7alves-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@nukeninhenrique@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+
+---
+
+## 📚 Atualmente estudando
+
+* Lógica de programação com **Python**
+* Desenvolvimento **Web (HTML e CSS)**
+* Estrutura e boas práticas de código
+* Resolução de problemas com programação
+
+---
+
+## 🎯 Objetivos
+
+* Conquistar minha **primeira oportunidade na área de tecnologia**
+* Evoluir minhas habilidades em **desenvolvimento de software**
+* Participar de **projetos práticos e colaborativos**
+* Aprender novas tecnologias e ferramentas
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de tecnologia.
