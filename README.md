@@ -33,17 +33,16 @@ Hoje transformo essa curiosidade em prática, desenvolvendo habilidades em progr
 ## ⚡ Meu ritmo de evolução
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgoncalves95&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats-8h29.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=hgoncalves95&theme=dracula&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hgoncalves95&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hgoncalves95&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats-8h29.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hgoncalves95&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hgoncalves95&theme=dracula&utcOffset=-3"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgoncalves95&theme=dracula&hide_border=true"/>
 </p>
 
 ---
