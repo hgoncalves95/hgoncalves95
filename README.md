@@ -1,49 +1,47 @@
-# 👋 Olá, eu sou Henrique Gonçalves
+<h1 align="center">👨‍💻 Henrique Gonçalves</h1>
 
-💻 **Desenvolvedor de Software em formação**
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (UNICSUL)**.
-
-Desde pequeno sempre tive curiosidade por tecnologia. Costumava utilizar o computador do meu pai para jogar e explorar novas coisas, o que despertou meu interesse em entender **como os programas funcionam e como são desenvolvidos**.
-
-Hoje estou focado em desenvolver minhas habilidades em programação e tecnologia. Atualmente estou em busca da **minha primeira oportunidade de estágio na área de TI**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir como desenvolvedor.
+<p align="center">
+  🚀 Frontend Developer in progress • Construindo sistemas reais
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧠 Sobre mim
 
-<div>
-<a href="https://github.com/hgoncalves95">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
+Sou movido por curiosidade desde cedo — comecei explorando computadores tentando entender como tudo funcionava por trás da tela.  
+Hoje, transformo isso em prática construindo **APIs, sistemas e soluções reais**, com foco em backend.
 
----
-
-## 🚀 Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+🎓 ADS — UNICSUL  
+💡 Conhecimento prático nível júnior  
 
 ---
 
-## 📚 Atualmente estudando
+## ⚡ Meu ritmo de evolução
 
-* Lógica de programação com **Python**
-* Desenvolvimento **Web (HTML e CSS)**
-* Estrutura e boas práticas de código
-* Resolução de problemas com programação
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vitaum42&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaum42&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaum42&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-## 🎯 Objetivos
-
-* Conquistar minha **primeira oportunidade na área de tecnologia**
-* Evoluir minhas habilidades em **desenvolvimento de software**
-* Participar de **projetos práticos e colaborativos**
-* Aprender novas tecnologias e ferramentas
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitaum42&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de tecnologia.
+## 🧩 Stack predominante
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,git,github,vscode,html,css" />
+</p>
+
+---
+
+## 📈 Foco atual
+
+```txt
+→ APIs REST com FastAPI
+→ Integração com PostgreSQL
+→ Arquitetura backend
+→ Deploy de aplicações
