@@ -33,9 +33,12 @@ Hoje transformo essa curiosidade em prática, desenvolvendo habilidades em progr
 ## ⚡ Meu ritmo de evolução
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=hgoncalves95&theme=dracula&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=hgoncalves95&theme=dracula&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -75,3 +78,4 @@ Hoje transformo essa curiosidade em prática, desenvolvendo habilidades em progr
 ---
 
 <p align="center">⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!</p>
+
