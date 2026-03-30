@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/henrique-gon%C3%A7alves-2b5747367/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nukeninhenrique@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#e8869d838d868186808d869a81999d8da88f85898184c68b8785">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/hgoncalves95">
@@ -33,16 +33,17 @@ Hoje transformo essa curiosidade em prática, desenvolvendo habilidades em progr
 ## ⚡ Meu ritmo de evolução
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hgoncalves95&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="160" src="https://streak-stats.demolab.com/?user=hgoncalves95&theme=dracula&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgoncalves95&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgoncalves95&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hgoncalves95&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hgoncalves95&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgoncalves95&theme=dracula&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hgoncalves95&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hgoncalves95&theme=dracula&utcOffset=-3"/>
 </p>
 
 ---
