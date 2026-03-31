@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrique-gon%C3%A7alves-2b5747367/">
+  <a href="https://www.linkedin.com/in/henrique-gon%C3%A7alves-oliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="/cdn-cgi/l/email-protection#e8869d838d868186808d869a81999d8da88f85898184c68b8785">
