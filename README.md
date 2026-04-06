@@ -20,7 +20,7 @@
 
 ## 🧠 Sobre mim
 
-Desde pequeno sempre fui curioso com tecnologia — usava o computador do meu pai pra jogar e explorar, até que a pergunta mudou de *"o que esse programa faz?"* para *"como ele foi feito?"*.
+Desde pequeno sempre fui curioso com tecnologia, usava o computador do meu pai pra jogar e explorar, até que a pergunta mudou de *"o que esse programa faz?"* para *"como ele foi feito?"*.
 
 Hoje transformo essa curiosidade em prática, desenvolvendo habilidades em programação e construindo minha base como desenvolvedor.
 
